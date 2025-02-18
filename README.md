@@ -7,4 +7,4 @@
 
 ### Links
 
-🚀 [Ver el Proyecto en Vivo](https://borghii.github.io/Bento-grid-HTML-CSS-6-refactor/)
+🚀 [Ver el Proyecto en Vivo](https://borghii.github.io/testimonials-grid-HTML-CSS-7/)
